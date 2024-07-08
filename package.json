@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "git-hooks-nodejs",
+  "version": "1.0.0",
+  "description": "PRacticing Git Hooks with nodejs automation",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "./"
+  },
+  "keywords": [
+    "git",
+    "node",
+    "jest"
+  ],
+  "author": "Dharmesh Marathe",
+  "license": "MIT"
+}
